@@ -5,10 +5,8 @@
 ### Description:
 In this project I will analyse Emergency 911 Calls data from [kaggle](https://www.kaggle.com/mchirico/montcoalert) using NumPy, Pandas, Matplotlib, and Seaborn.
 
-
-
 ### Data:
-Just for reference, the [data set for this project] contains the following fields:
+Just for reference, the [data set for this project]https://github.com/devp-10/911-Calls-Analysis/blob/main/911.csv contains the following fields:
 * lat : String variable, Latitude
 * lng: String variable, Longitude
 * desc: String variable, Description of the Emergency Call
@@ -25,4 +23,3 @@ Just for reference, the [data set for this project] contains the following field
 * Pandas
 * Matplotlib
 * Seaborn
-
