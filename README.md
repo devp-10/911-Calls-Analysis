@@ -1,6 +1,6 @@
 # <h1 align="center"><samp> 911 Calls Analysis Project </samp></h1>
 
-![alt text](https://github.com/devp-10/911-Calls-Analysis/blob/main/911-image-1.png)![alt text](https://github.com/devp-10/911-Calls-Analysis/blob/main/911-image-2.png)   
+![alt text](https://github.com/devp-10/911-Calls-Analysis/blob/main/911-image-1.png)  ![alt text](https://github.com/devp-10/911-Calls-Analysis/blob/main/911-image-2.png)   
 
 ### Description:
 In this project I will analyse Emergency 911 Calls data from [kaggle](https://www.kaggle.com/mchirico/montcoalert) using NumPy, Pandas, Matplotlib, and Seaborn.
